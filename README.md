@@ -1,5 +1,5 @@
 # pagila-hw
-[![](https://github.com/advik-mareedu/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/advik-mareedu/pagila-hw/actions?query=workflow%3Atests)
+[![pagila-hw badge](https://github.com/advik-mareedu/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/advik-mareedu/pagila-hw/actions?query=workflow%3Atests)
 
 ## Background
 
